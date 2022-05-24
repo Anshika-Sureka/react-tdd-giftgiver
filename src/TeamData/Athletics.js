@@ -25,7 +25,7 @@ Champions League in the year 2011. Pages are numbered from 1, so
 in order to access the first page, you need to ask for page number 1.
 */
 import React from 'react';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 export default function AthleticsComponent(){
     const [year, setYear] = useState('');
