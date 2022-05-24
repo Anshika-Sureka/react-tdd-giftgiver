@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Anshika-Sureka/react-tdd-giftgiver/static/css/main.964fdded.css",
-    "main.js": "/Anshika-Sureka/react-tdd-giftgiver/static/js/main.d39718e6.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Anshika-Sureka/react-tdd-giftgiver/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Anshika-Sureka/react-tdd-giftgiver/index.html",
-    "main.964fdded.css.map": "/Anshika-Sureka/react-tdd-giftgiver/static/css/main.964fdded.css.map",
-    "main.d39718e6.js.map": "/Anshika-Sureka/react-tdd-giftgiver/static/js/main.d39718e6.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Anshika-Sureka/react-tdd-giftgiver/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/react-tdd-giftgiver/static/css/main.964fdded.css",
+    "main.js": "/react-tdd-giftgiver/static/js/main.8dcd6445.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-tdd-giftgiver/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react-tdd-giftgiver/index.html",
+    "main.964fdded.css.map": "/react-tdd-giftgiver/static/css/main.964fdded.css.map",
+    "main.8dcd6445.js.map": "/react-tdd-giftgiver/static/js/main.8dcd6445.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-tdd-giftgiver/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
-    "static/js/main.d39718e6.js"
+    "static/js/main.8dcd6445.js"
   ]
 }
