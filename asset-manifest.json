@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Anshika-Sureka/react-tdd-giftgiver.git/static/css/main.964fdded.css",
-    "main.js": "/Anshika-Sureka/react-tdd-giftgiver.git/static/js/main.a2191106.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Anshika-Sureka/react-tdd-giftgiver.git/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Anshika-Sureka/react-tdd-giftgiver.git/index.html",
-    "main.964fdded.css.map": "/Anshika-Sureka/react-tdd-giftgiver.git/static/css/main.964fdded.css.map",
-    "main.a2191106.js.map": "/Anshika-Sureka/react-tdd-giftgiver.git/static/js/main.a2191106.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Anshika-Sureka/react-tdd-giftgiver.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Anshika-Sureka/react-tdd-giftgiver/static/css/main.964fdded.css",
+    "main.js": "/Anshika-Sureka/react-tdd-giftgiver/static/js/main.d39718e6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Anshika-Sureka/react-tdd-giftgiver/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Anshika-Sureka/react-tdd-giftgiver/index.html",
+    "main.964fdded.css.map": "/Anshika-Sureka/react-tdd-giftgiver/static/css/main.964fdded.css.map",
+    "main.d39718e6.js.map": "/Anshika-Sureka/react-tdd-giftgiver/static/js/main.d39718e6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Anshika-Sureka/react-tdd-giftgiver/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
-    "static/js/main.a2191106.js"
+    "static/js/main.d39718e6.js"
   ]
 }
